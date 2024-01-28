@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="[https://github.com/Autom8Sustain](https://github.com/Autom8Sustain)">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="profile/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Autom8Sustain</h3>
