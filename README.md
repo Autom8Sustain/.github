@@ -1,2 +1,2 @@
 # .github
-Autom8Sustain
+Public Autom8Sustain Readme
